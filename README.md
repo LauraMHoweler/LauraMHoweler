@@ -28,7 +28,6 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
 Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação[cite: 10]:
 
 * 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/ED43S)**
-* 📚 **OO42S** — Programação Orientada a Objetos *(em breve)*[cite: 10]
 <!--
 **LauraMHoweler/LauraMHoweler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
