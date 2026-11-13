@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-Meu nome é **Laura Maria Howeler**, tenho **20** anos e sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **UTFPR – Câmpus Pato Branco**. Atualmente atuo como estagiária de suporte técnico e infraestrutura no DAINF, além de integrar a equipe de marketing e design do projeto de extensão *The Girl Has No Name*.
+Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **UTFPR – Câmpus Pato Branco**[cite: 10]. Atualmente atuo como estagiária de suporte técnico e infraestrutura no DAINF, além de integrar a equipe de marketing e design do projeto de extensão *The Girl Has No Name*[cite: 10].
+
+---
+
+<!-- Futuro link do portfólio (basta remover este comentário e ativar a linha abaixo quando publicar) -->
+<!-- 🌿 **[Acesse meu Portfólio Interativo](https://lauramhoweler.github.io/)** -->
+
 ---
 
 ### Languages & Tools
@@ -11,31 +17,18 @@ Meu nome é **Laura Maria Howeler**, tenho **20** anos e sou estudante do 4º pe
 
 ---
 
-### Some projects
+### Some Projects
 
 * 🎣 **[Jogo de Pescaria em C (ED43S)](https://github.com/LauraMHoweler/Trabalho_ED2_Pescaria)** 
-<!-- Para adicionar novos projetos no futuro, basta copiar a linha acima -->
-<!-- Para adicionar novos projetos depois, basta copiar o bloco <a href="...">...</a> acima e trocar o nome do repositório -->
-
----
-
-### More info
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMHoweler&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ### Universidade Tecnológica Federal do Paraná's fields of study
 
-Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação:
+Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação[cite: 10]:
 
-* 📚 **ED43S** — Estrutura de Dados 2 *(em breve)*
-* 📚 **OO42S** — Programação Orientada a Objetos *(em breve)*
-
-<!-- Quando criar os repositórios das matérias, troque o texto acima por: * 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/nome-do-repo)** -->
-
+* 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/ED43S)**
+* 📚 **OO42S** — Programação Orientada a Objetos *(em breve)*[cite: 10]
 <!--
 **LauraMHoweler/LauraMHoweler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
