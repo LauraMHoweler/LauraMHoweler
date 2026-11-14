@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **UTFPR – Câmpus Pato Branco**[cite: 10]. Atualmente atuo como estagiária de suporte técnico e infraestrutura no DAINF, além de integrar a equipe de marketing e design do projeto de extensão *The Girl Has No Name*[cite: 10].
+Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **UTFPR – Câmpus Pato Branco**. Atualmente atuo como estagiária de suporte técnico e infraestrutura no DAINF, além de integrar a equipe de marketing e design do projeto de extensão *The Girl Has No Name*.
 
 ---
 
