@@ -20,7 +20,7 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C" title="C" />
   <img width="12" />
@@ -28,7 +28,7 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" style="background-color: white; border-radius: 50%;" />
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
 </div>
@@ -37,7 +37,7 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
 
 ### Some Projects
 
-* 🎣 **[Jogo de Pescaria em C (ED43S)](https://github.com/LauraMHoweler/Trabalho_ED2_Pescaria)** 
+- 🎣 **[Jogo de Pescaria em C (ED43S)](https://github.com/LauraMHoweler/Trabalho_ED2_Pescaria)** 
 
 ---
 
@@ -45,7 +45,7 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
 
 Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação:
 
-* 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/ED43S)**
+- 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/ED43S)**
 <!--
 **LauraMHoweler/LauraMHoweler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
