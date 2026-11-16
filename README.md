@@ -43,7 +43,7 @@ Meu nome é **Laura Maria Howeler**, tenho 20 anos e sou estudante do 4º perío
 
 ### Universidade Tecnológica Federal do Paraná's fields of study
 
-Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação[cite: 10]:
+Repositórios com atividades, listas de exercícios e trabalhos desenvolvidos durante a graduação:
 
 * 📚 **[ED43S — Estrutura de Dados 2](https://github.com/LauraMHoweler/ED43S)**
 <!--
